@@ -1,3 +1,3 @@
-Nome do projeto > Vinharia-Agnello
-Participantes > Bruno Carreiro, Daniel Graciano, Eduardo bechara, Gustavo Moita, Gustavo Romero.
-Descricao > O projeto preve um sistema no qual tem como objetivo um gerenciamento basico de vinhos usando recursos JavaScript. Com variaveis e operadores vistos em aula, ex: [prompt(),alert(),console.log()]
+Nome do projeto : Vinharia-Agnello
+Participantes: Bruno Carreiro, Daniel Graciano, Eduardo bechera, Gustavo Moita, Gustavo Romero
+Descricao : O projeto preve um sistema no qual tem como objetivo um gerenciamento basico de vinhos usando recursos JavaScript. Com variaveis e operadores vistos em aula, ex: prompt(),alert(),console.log()
